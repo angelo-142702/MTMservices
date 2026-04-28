@@ -20,12 +20,7 @@
     "noUnusedParameters": false,
     "noImplicitAny": false,
     "noFallthroughCasesInSwitch": false,
-
-<<<<<<< HEAD
     "baseUrl": ".",
-=======
-    "baseUrl": "",
->>>>>>> 1221597 (flex)
     "paths": {
       "@/*": ["./src/*"]
     }
